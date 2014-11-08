@@ -1,0 +1,1 @@
+mongoimport -h localhost --db test -c nasdaq --file nasdaq-historical-data.csv --type csv --headerline
